@@ -4,9 +4,6 @@
 #include <stdbool.h>
 #include <ctype.h>
 
-// this first program is meant to be a text 4-function calculator that also stores memory
-// of previous operations used.
-
 typedef struct {
 	char variableName;
 	float value;
