@@ -1,0 +1,2 @@
+# Four Function Calculator
+a simply four function calculator made in c. currently has capability for the four standard math operations, and equation memory where users can look at previously entered equations.
